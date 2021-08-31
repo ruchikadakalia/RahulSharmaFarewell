@@ -58,9 +58,9 @@ footer: "Rahul Sharma Rocks :heart:"
 <style scoped> { font-size:24px;}</style>
 ---
 
-### your name Says:
-####  headline you want to give
-##### your message
+### Ruchika Dakalia Says:
+####  Truly an Inspiration
+##### An amazing human being. Lot to learn from. Great listening skills, always ready to help, and superb developer.Every success in your life is truly deserved. All the best for your future and do stay in touch
 <!-- _class: lead -->
 <style scoped> { font-size:24px;}</style>
 ---
